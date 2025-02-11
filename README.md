@@ -22,8 +22,11 @@ Para os exercícios serem realizados, usamos o algorito de busca em profundidade
 As questões foram escolhidas com base nos algoritmos DFS, BFS e Ordenação Topológica, permitindo o grupo focar apenas nos algoritmos analisados em aula com mínimas adaptações.
 
 ## Screenshots
-Questão: [Médio - 486. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/?envType=problem-list-v2&envId=graph)
+Questão: [Médio - 486. Sum of Distances in Tree](https://leetcode.com/problems/predict-the-winner/submissions/1538712328/?envType=problem-list-v2&envId=dynamic-programming)
 ![486](486.png)
+
+Questão: [Difícil - 85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/?envType=problem-list-v2&envId=dynamic-programming)
+![85](85.png)
 
 ## Instalação 
 **Linguagem**: python<br>
