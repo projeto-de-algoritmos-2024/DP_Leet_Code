@@ -1,12 +1,12 @@
 # DP_Leet_Code
 
 Temas:
- - Grafos1
+ - Programação Dinâmica (PD)
  
-# Grafos1_LeetCodeGrafos1
+# DP_Leet_Code
 
-**Número da Lista**: 10<br>
-**Conteúdo da Disciplina**: Grafos 1<br>
+**Número da Lista**: 28<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -17,9 +17,7 @@ Temas:
 ## Sobre 
 O projeto é contemplado por resolver 4 questões da plataforma LeetCode, sendo 2 dífíceis e 2 médio. A definição de médio, fácil e difícil é concebida pela própria plataforma.
 
-Para os exercícios serem realizados, usamos o algorito de busca em profundidade, busca em largura e Ordem Topológica com pequenas modificações, para que pudessem receber o Accept como solução para o desafio.
-
-As questões foram escolhidas com base nos algoritmos DFS, BFS e Ordenação Topológica, permitindo o grupo focar apenas nos algoritmos analisados em aula com mínimas adaptações.
+Para os exercícios serem realizados, usamos algoritmos que utilizam o principio da programação dinâmica, como memoization e algoritmo de Bellman-Ford.
 
 ## Screenshots
 Questão: [Médio - 743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/?envType=problem-list-v2&envId=53js48ke)
@@ -42,7 +40,7 @@ Instalar uma versão lastest stable do python desde de que seja > 3.11.
 ## Uso 
 Para rodar este projeto, basta entrar na raiz do projeto e executar o arquivo referente a questão que se deseja avaliar, por exemplo:
 ```
-python3 834.SumofDistancesinTree.py
+python3 486.PredicttheWinner.py
 ```
 
 ## Outros
