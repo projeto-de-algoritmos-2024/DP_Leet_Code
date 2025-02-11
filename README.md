@@ -26,7 +26,7 @@ Questão: [Médio - 743. Network Delay Time](https://leetcode.com/problems/netwo
 Questão: [Difícil - 42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=problem-list-v2&envId=dynamic-programming)
 ![42](42.png)
 
-Questão: [Médio - 486. Sum of Distances in Tree](https://leetcode.com/problems/predict-the-winner/submissions/1538712328/?envType=problem-list-v2&envId=dynamic-programming)
+Questão: [Médio - 486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/submissions/1538712328/?envType=problem-list-v2&envId=dynamic-programming)
 ![486](486.png)
 
 Questão: [Difícil - 85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/?envType=problem-list-v2&envId=dynamic-programming)
