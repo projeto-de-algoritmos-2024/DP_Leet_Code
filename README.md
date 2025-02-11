@@ -22,6 +22,12 @@ Para os exercícios serem realizados, usamos o algorito de busca em profundidade
 As questões foram escolhidas com base nos algoritmos DFS, BFS e Ordenação Topológica, permitindo o grupo focar apenas nos algoritmos analisados em aula com mínimas adaptações.
 
 ## Screenshots
+Questão: [Médio - 743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/?envType=problem-list-v2&envId=53js48ke)
+![743](743.png)
+
+Questão: [Difícil - 42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=problem-list-v2&envId=dynamic-programming)
+![42](42.png)
+
 Questão: [Médio - 486. Sum of Distances in Tree](https://leetcode.com/problems/predict-the-winner/submissions/1538712328/?envType=problem-list-v2&envId=dynamic-programming)
 ![486](486.png)
 
