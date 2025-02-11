@@ -46,6 +46,10 @@ python3 486.PredicttheWinner.py
 ## Outros
 Desconsiderar a função </br>main()<br> dos arquivos .py ao tentar submeter ao leetcode. Esta função foi implementada apenas com o intuito de testar casos base.
 
+## Observação
+Ao final do vídeo comento que a minha solução MaximalRectangle havia um hashmap(dicionário), mas esatava equivocada por se tratar de uma outro problema que estava tentando resolver em paralelo a gravação.
+O problema foi resolvido usando PD de forma iterativa computando o máximo da área do retangulo encontrado dentro do histograma, onde basicamente eu salvo em uma variável o máximo entre o antes e o novo máximo. 
+
 ## Vídeo
 https://youtu.be/iRnJ3YVUDXk
 
