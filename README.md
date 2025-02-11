@@ -47,5 +47,5 @@ python3 486.PredicttheWinner.py
 Desconsiderar a função </br>main()<br> dos arquivos .py ao tentar submeter ao leetcode. Esta função foi implementada apenas com o intuito de testar casos base.
 
 ## Vídeo
-https://youtu.be/F1k6yxgnLog?si=Y2q7JckXNF5f5zTU
+https://youtu.be/iRnJ3YVUDXk
 
